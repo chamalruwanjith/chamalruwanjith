@@ -1,84 +1,81 @@
-<h1 align="center">👋 Hi, I'm Chamal Ruwanjith</h1>
-
-<h3 align="center">Software Engineer | Python Developer | Odoo Developer</h3>
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60" />
-  </a>
-</p>
-
-
-I'm an innovative software engineer passionate about full-stack development, Odoo customization, and solving real-world problems through technology. With expertise in Python, databases, and web development, I strive to deliver high-quality solutions for businesses.
-
-- 🏢 **Current Role**: Software Engineer
-- 🎓 **Master's in Data Analytics** at the University of Kelaniya
-- 📊 Specializing in Odoo integrations, full-stack development with Python, Flask, PostgreSQL, and much more.
-
-### 💻 Skills
-
-- **Languages**: Python, Java, C, R, Wolfram Language
-- **Web Development**: Flask, HTML, CSS, JavaScript, AJAX, Jinja
-- **Databases**: PostgreSQL, MySQL, MSSQL
-- **Odoo Expertise**: Module Customization, API Integration, Backend Development
-
-### 🔧 Projects & Achievements
-
-- **Multi-Company Inventory & Sales Management (2024)**  
-  Developed an Odoo module that manages inventory across multiple companies, ensuring seamless synchronization of stock levels after sales transactions.
-
-- **Product Stock and Cart System (2023)**  
-  Built a web application using Python Flask to manage product stocks, integrated with Odoo for order creation.
-
-- **Sales Management System (2022)**  
-  Created a Python Flask-based system for sales agents, with Odoo integration for sales order management.
-
-- **Smart Wheelchair Project (2021)**  
-  Developed a head-motion-controlled wheelchair using Python and Raspberry Pi for enhanced user interaction.
-
-### 🎓 Education
-
-- **Master of Data Analytics**  
-  University of Kelaniya (2022 - Present)
+<div align="center">
   
-- **B.Sc. (Hons) in Physics**  
-  University of Sri Jayewardenepura (2017 - 2021)
+# Hello World! 👋 I'm Chamal Ruwanjith
 
-### 📜 Certifications
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Python+Developer;Odoo+Developer;MSc+Data+Analytics+Student)](https://git.io/typing-svg)
 
-- Data Science with Python - University of Colombo  
-- Advanced Databases and SQL Querying - Udemy  
-- Google Data Analytics Certificates (2021)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chamalruwanjith.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamalruwanjith)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamalruwanjith@gmail.com)
 
-### 📫 Get in Touch
+</div>
 
-- [Portfolio](https://chamalruwanjith.github.io)
-- [LinkedIn](https://www.linkedin.com/in/chamalruwanjith)
-- [Email](mailto:chamalruwanjith@gmail.com)
+## 🚀 About Me
+
+I'm an innovative software engineer passionate about full-stack development, Odoo customization, and solving real-world problems through technology. Currently pursuing a Master's in Data Analytics while specializing in Python development and data solutions.
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🛠 Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+## 🏆 Projects
+
+### Multi-Company Inventory & Sales Management (2024)
+- 🔸 Advanced Odoo module for cross-company inventory management
+- 🔸 Seamless stock synchronization after sales transactions
+- 🔸 Real-time inventory tracking system
+
+### Product Stock and Cart System (2023)
+- 🔸 Flask-based web application with Odoo integration
+- 🔸 Automated order creation and stock management
+- 🔸 Real-time inventory synchronization
+
+### Smart Wheelchair Project (2021)
+- 🔸 Head-motion controlled wheelchair system
+- 🔸 Built with Python and Raspberry Pi
+- 🔸 Enhanced mobility solutions for users
+
+## 📚 Education & Certifications
+
+- 📖 MSc in Data Analytics - University of Kelaniya (2022 - Present)
+- 🎓 BSc (Hons) in Physics - University of Sri Jayewardenepura (2017 - 2021)
+- ✅ Data Science with Python - University of Colombo
+- ✅ Google Data Analytics Certificates
+- ✅ Advanced Databases and SQL Querying
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chamalruwanjith&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamalruwanjith&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chamalruwanjith&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chamalruwanjith&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<div align="center">
+  <i>🤝 Let's connect and build something amazing together!</i>
+</div>
